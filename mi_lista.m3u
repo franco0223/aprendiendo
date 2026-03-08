@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Directv Sports LIVE
-https://tyg2mnl9.fubohd.com:443/dsports/mono.m3u8?token=06e2996993a7bef7f2bc8a8bca6b08f2d89551cd-1c-1773008207-1772990207
+#EXTINF:-1, Directv Sports
+https://a2vlca.fubohd.com:443/dsports/mono.m3u8?token=720bca2d1183909aa64121a81ca927cd828f43f6-5e-1773008216-1772990216
+#EXTINF:-1, ESPN 1
+https://rm8zcvk3.fubohd.com:443/espn/mono.m3u8?token=7e930230c49c6ef97f01f79673f917c24ce6c7be-2c-1773008217-1772990217
